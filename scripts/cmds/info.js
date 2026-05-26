@@ -21,10 +21,10 @@ module.exports = {
 
   onStart: async function ({ message }) {
 
-    const ownerName = "STARBOY APHELION";
-    const ownerAge = "N/A";
-    const ownerFB = "https://facebook.com/star.boy.aphelion";
-    const ownerNumber = "+88019XXXXXXX";
+    const ownerName = "♡゙𝆠꯭፝֟ ≛⃝𝐌༎ncs|kipe❯🌷🩷ᥫ᭡⎯꯭꯭̽⃞😽ꤪꤨꤪ";
+    const ownerAge = "18";
+    const ownerFB = "https://www.facebook.com/profile.php?id=61590026428291";
+    const ownerNumber = "+254114740787";
     const status = "Active";
 
     const botName = global.GoatBot?.config?.nickNameBot || "GoatBot";
@@ -34,7 +34,7 @@ module.exports = {
     const totalCommands = global.GoatBot?.commands?.size || 0;
 
     const images = [
-      "https://i.ibb.co/SD8SDxRp/597419756-1433777018750185-6513158348709492396-n-jpg-nc-cat-103-ccb-1-7-nc-sid-9f807c-nc-eui2-Ae-F.jpg"
+      "https://i.imgur.com/wdXeQ0K.jpeg"
     ];
     const image = images[Math.floor(Math.random() * images.length)];
 
