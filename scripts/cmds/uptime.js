@@ -74,7 +74,7 @@ module.exports = {
 
       // Step 5: Final output
       const finalMessage = `
-> 🎀 𝐵𝑜𝑡 𝑈𝑝𝑡𝑖𝑚𝑒 𝐼𝑛𝑓𝑜
+> 🎀 ♡゙𝆠꯭፝֟ ≛⃝𝐌༎ncs|kipe❯🌷🩷ᥫ᭡⎯꯭꯭̽⃞😽ꤪꤨꤪ
 
 🕒 ᴜᴘᴛɪᴍᴇ : ${uptimeFormatted}
 📶 ᴘɪɴɢ     : ${ping}ms
@@ -82,7 +82,7 @@ module.exports = {
 💻 ᴍᴇᴍᴏʀʏ : ${memoryUsage} MB
 👥 ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : ${totalUsers}
 💬 ᴛᴏᴛᴀʟ ᴛʜʀᴇᴀᴅꜱ : ${totalThreads}
-👑 ᴏᴡɴᴇʀ  : Mohammad Alamin
+👑 ᴏᴡɴᴇʀ  : ♡゙𝆠꯭፝֟ ≛⃝𝐌༎ncs|kipe❯🌷🩷ᥫ᭡⎯꯭꯭̽⃞😽ꤪꤨꤪ
       `.trim();
 
       await delay(300);
